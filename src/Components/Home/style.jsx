@@ -9,14 +9,14 @@ export const Section = styled.section`
   font-family: "Poppins", serif;
   width: 40vw; 
   margin-left: 150px; 
-  border: red solid;
+  
  
   
 `;
 
 export const Div = styled.div`
  
-border: #037143 solid;
+
   h1 {
     font-size: 4rem; 
     font-weight: 400;  
