@@ -17,11 +17,15 @@ export const Section = styled.section`
 export const Div = styled.div`
  
 
+  margin-top: 50px
   h1 {
-    font-size: 4rem; 
+    
+    
+    font-size: 5rem; 
     font-weight: 400;  
     color: #1e3932;
     margin-bottom: 1rem; 
+    
   }
 
   h2 {
@@ -77,7 +81,7 @@ export const ImageContainer = styled.div`
     right: 7%;
     top: 32%;
   }
-  border: blue solid;
+ 
 `;
 
 export const Img1 = styled.img`
